@@ -36,7 +36,7 @@ class CurrencyWidget(QFrame):
 class ModernCurrencyConverter(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.api_key = "466981e11b97aa3277fbf56d"  # Get free from https://www.exchangerate-api.com/
+        self.api_key = ""  # Get free from https://www.exchangerate-api.com/
         self.base_url = f"https://v6.exchangerate-api.com/v6/{self.api_key}/latest/"
         self.initUI()
         
