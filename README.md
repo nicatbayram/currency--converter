@@ -2,8 +2,8 @@
 
 A sleek and user-friendly currency conversion application developed with PyQt6. The application uses the ExchangeRate API for real-time exchange rates.
 
-<img width="450" alt="1" src="https://github.com/user-attachments/assets/321beb5b-cc07-4818-9d91-ed14a84a4163" />
-<img width="450" alt="2" src="https://github.com/user-attachments/assets/bddec307-2eee-411c-ad26-8c437f30819c" />
+<img width="400" alt="1" src="https://github.com/user-attachments/assets/321beb5b-cc07-4818-9d91-ed14a84a4163" />
+<img width="400" alt="2" src="https://github.com/user-attachments/assets/bddec307-2eee-411c-ad26-8c437f30819c" />
 
 
 
